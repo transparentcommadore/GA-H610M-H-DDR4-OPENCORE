@@ -3,6 +3,9 @@
 OPENCORE bootloader for installation on 12-gn processors (Alder Lake)
 EFI for Gigabyte H610M-H DDR4 motherboard.
 
+![ventura-installed](https://user-images.githubusercontent.com/27772093/216773817-aed78de2-2998-4cbf-b847-24e050b7865b.png)
+
+
 Add extra kexts
     IntelMausi for Intel Ethernet
     RealtekRTL8111 for Realtek 8111
