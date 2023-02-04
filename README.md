@@ -7,6 +7,7 @@ EFI for Gigabyte H610M-H DDR4 motherboard.
 
 
 Add extra kexts
+
     IntelMausi for Intel Ethernet
     RealtekRTL8111 for Realtek 8111
     AppleALC for universial patch audio
