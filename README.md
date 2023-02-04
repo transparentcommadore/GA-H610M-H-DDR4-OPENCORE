@@ -3,6 +3,8 @@
 OPENCORE bootloader for installation on 12-gn processors (Alder Lake)
 EFI for Gigabyte H610M-H DDR4 motherboard.
 
+![изображение](https://user-images.githubusercontent.com/27772093/216773702-2c5a2beb-7270-4b8c-8db5-ad859fec056d.png)
+
 Add extra kexts
     IntelMausi for Intel Ethernet
     RealtekRTL8111 for Realtek 8111
