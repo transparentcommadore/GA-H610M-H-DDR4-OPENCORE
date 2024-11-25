@@ -15,6 +15,7 @@ Add extra kexts
     Lilu for patches
     USBports for init and mapping USB 2.0/3.0
     VirtualSMC
+    Intel Airportitlwm, IntelBluetoothFirmware
 
 Custom ACPI (optional)
 
