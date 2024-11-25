@@ -6,12 +6,12 @@ EFI for Gigabyte H610M-H DDR4 motherboard.
 Add extra kexts
 
     IntelMausi for Intel Ethernet
+    RealtekRTL8111 for Realtek Ethernet
     AppleALC for universial patch audio
     WhateverGreen for enable GPU AMD
     Lilu for patches
     USBports for init and mapping USB 2.0/3.0
     VirtualSMC
-    Intel Airportitlwm, IntelBluetoothFirmware for AX210
 
 Custom ACPI (optional)
 
