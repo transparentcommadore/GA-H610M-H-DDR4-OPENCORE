@@ -1,10 +1,7 @@
-[GUIDE] Installing macOS Monterey (12.x) / Ventura (13.x) on Gigabyte H610M-H DDR4 [OpenCore 0.8.8]
+[GUIDE] Installing macOS Monterey (12.x) / Ventura (13.x) / Sonoma (14.x) / Sequoia (15.x) on Gigabyte H610M-H DDR4 [OpenCore 0.8.8-1.0.2]
 
 OPENCORE bootloader for installation on 12-gn processors (Alder Lake)
 EFI for Gigabyte H610M-H DDR4 motherboard.
-
-![ventura-installed](https://user-images.githubusercontent.com/27772093/216773817-aed78de2-2998-4cbf-b847-24e050b7865b.png)
-
 
 Add extra kexts
 
